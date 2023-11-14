@@ -31,10 +31,10 @@ SIFT stands for Scale-Invariant Feature Transform and was first presented in 200
 The algorithm
 SIFT is quite an involved algorithm. There are mainly four steps involved in the SIFT algorithm. We will see them one-by-one.
 
-* **Scale-space peak selection**: Potential location for finding features.
-* **Keypoint Localization**: Accurately locating the feature keypoints.
-Orientation Assignment: Assigning orientation to keypoints.
-* **Keypoint descriptor**: Describing the keypoints as a high dimensional vector.
+* **Scale-space peak selection** : Potential location for finding features.
+* **Keypoint Localization** : Accurately locating the feature keypoints.
+* **Orientation Assignment** : Assigning orientation to keypoints.
+* **Keypoint descriptor** : Describing the keypoints as a high dimensional vector.
 * **Keypoint Matching**
 
 ![images](img/sift.png)
