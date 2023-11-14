@@ -39,4 +39,4 @@ Orientation Assignment: Assigning orientation to keypoints.
 
 ![images](img/sift.png)
 
-There are some different feature between clean example and adversarial example, its because the adversarial noise is also a robust feature that may affect the prediction.
+There are some different feature between clean example and adversarial example, its because the adversarial noise is also thought as robust feature that may affect the prediction.
