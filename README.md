@@ -15,6 +15,6 @@ After doing so, we can get four subbands, whose width and height are half of ori
 
 ![images](img/img_2.png)
 ![images](img/ll_2.png)
-![images](img/lh_2.png)
+![images](img/lh_2.png)\
 ![images](img/hl_2.png)
 ![images](img/hh_2.png)
